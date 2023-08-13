@@ -1,0 +1,2 @@
+title('Sevban Behlül Balcı');
+print('Yamanevler Enderun Bilişime Hoşgeldiniz');
